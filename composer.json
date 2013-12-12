@@ -1,0 +1,27 @@
+﻿{
+    "name": "TMsolutionExtjs",
+    "description": "Package for Ext",
+    "repositories": {
+        "symfony-unofficial": {
+            "type": "package",
+            "package": {
+                "name": "TMSolution/Extjs",
+                "version": "1.0",
+                "source": {
+                    "url": "git@github.com:TMSolution/extjs.git",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
+        }
+    },
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "MyBundleNamespace": "src/",
+            "FOS": "vendor/"
+        }
+    }
+}
