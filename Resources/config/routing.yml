@@ -1,0 +1,3 @@
+tm_solution_extjs_homepage:
+    pattern:  /piello/{name}
+    defaults: { _controller: TMSolutionExtjsBundle:Default:index }

@@ -1,0 +1,7 @@
+parameters:
+#    tm_solution_extjs.example.class: TMSolution\ExtjsBundle\Example
+
+services:
+#    tm_solution_extjs.example:
+#        class: %tm_solution_extjs.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
