@@ -1,5 +1,5 @@
 {
-    "name": "TMsolution\Extjs",
+    "name": "TMsolution/Extjs",
     "description": "Package for Ext",
     "repositories": {
         "symfony-unofficial": {
