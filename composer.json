@@ -23,6 +23,6 @@
             "TMSolution\\ExtjsBundle": "tmsolution/extjs",
         },
         "target-dir": "TMSolution/ExtjsBundle",
-        "minimum-stability": "dev",
+        "minimum-stability": "dev"
     }
 }
