@@ -20,8 +20,9 @@
     },
     "autoload": {
         "psr-0": {
-            "MyBundleNamespace": "src/",
-            "FOS": "vendor/"
-        }
+            "TMSolution\\ExtjsBundle": "tmsolution/extjs",
+        },
+        "target-dir": "TMSolution/ExtjsBundle",
+        "minimum-stability": "dev",
     }
 }
