@@ -22,7 +22,7 @@
         "psr-0": {
             "TMSolution\\ExtjsBundle": "tmsolution/extjs"
         }
-    }
+    },
     "target-dir": "Sonata/AdminBundle",
     
 }
