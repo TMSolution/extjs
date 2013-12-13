@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "TMSolution\\ExtjsBundle": "tmsolution/extjs",
+            "TMSolution\\ExtjsBundle": "tmsolution/extjs"
         },
         "target-dir": "TMSolution/ExtjsBundle",
         "minimum-stability": "dev"
