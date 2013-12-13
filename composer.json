@@ -23,6 +23,6 @@
             "TMSolution\\ExtjsBundle": "tmsolution/extjs"
         }
     },
-    "target-dir": "TMSolution\ExtjsBundle"
+    "target-dir": "TMSolution/ExtjsBundle"
     
 }
