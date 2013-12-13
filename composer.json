@@ -23,4 +23,6 @@
             "TMSolution\\ExtjsBundle": "tmsolution/extjs"
         }
     }
+    "target-dir": "Sonata/AdminBundle",
+    
 }
